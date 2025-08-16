@@ -19,7 +19,7 @@ A user-centric mobile application that enables goal setting, task tracking, and 
 - RESTful API integration  
 - Clean UI and UX optimization
 
-🔗 [View Project Repository](#) *(Add your actual repo link here)*  
+🔗 [View Project Repository] (https://github.com/hinaatiq?tab=repositories) 
 📸 Screenshots: *(Upload images in your repo and link them here)*
 
 ---
