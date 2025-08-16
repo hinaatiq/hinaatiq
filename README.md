@@ -20,12 +20,10 @@ A user-centric mobile application that enables goal setting, task tracking, and 
 - Clean UI and UX optimization
 
 🔗 [View Project Repository] (https://github.com/hinaatiq?tab=repositories) 
-📸 Screenshots: *(Upload images in your repo and link them here)*
 
----
 
 ## 🛠️ Skills
-- Java, XML, SQLite  
+- Java, XML, Room DB  
 - Android Studio, Figma  
 - RESTful APIs, UX Design  
 - Problem Solving, Creativity, Teamwork
